@@ -1,0 +1,10 @@
+C:\Users\Ramazan\Visual Studio Projects\Ödev1\Ödev1\bin\Debug\Ödev1.exe.config
+C:\Users\Ramazan\Visual Studio Projects\Ödev1\Ödev1\bin\Debug\Ödev1.exe
+C:\Users\Ramazan\Visual Studio Projects\Ödev1\Ödev1\bin\Debug\Ödev1.pdb
+C:\Users\Ramazan\Visual Studio Projects\Ödev1\Ödev1\obj\Debug\Ödev1.csprojResolveAssemblyReference.cache
+C:\Users\Ramazan\Visual Studio Projects\Ödev1\Ödev1\obj\Debug\Ödev1.Form1.resources
+C:\Users\Ramazan\Visual Studio Projects\Ödev1\Ödev1\obj\Debug\Ödev1.Properties.Resources.resources
+C:\Users\Ramazan\Visual Studio Projects\Ödev1\Ödev1\obj\Debug\Ödev1.csproj.GenerateResource.cache
+C:\Users\Ramazan\Visual Studio Projects\Ödev1\Ödev1\obj\Debug\Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\Visual Studio Projects\Ödev1\Ödev1\obj\Debug\Ödev1.exe
+C:\Users\Ramazan\Visual Studio Projects\Ödev1\Ödev1\obj\Debug\Ödev1.pdb
